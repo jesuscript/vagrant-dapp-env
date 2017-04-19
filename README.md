@@ -25,7 +25,7 @@ A **real environment**-friendly, **virtual environment** for development on Ethe
 
 Do you really give a monkey's?
 
-* YES! https://github.com/ethcore/parity/wiki/Private-development-chain
+* YES! https://github.com/paritytech/parity/wiki/Private-development-chain
 * NO! https://www.youtube.com/watch?v=5uUuRD_atfI
 
 ## Still not convinced you need this? **LOOK AT THE MONKEY**
