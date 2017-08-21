@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PARITY_DEB_URL=http://d1h4xl4cr1h0mo.cloudfront.net/beta/x86_64-unknown-linux-gnu/parity_1.4.0_amd64.deb
+PARITY_DEB_URL=http://parity-downloads-mirror.parity.io/v1.7.0/x86_64-unknown-linux-gnu/parity_1.7.0_amd64.deb
 PASSWORD=Password123
 export HOME="/root"
 
